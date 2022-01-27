@@ -1,4 +1,5 @@
 print("Hello User")
+print("Have a great day!")
 def hi(name):
     if name == "Valini":
         print("Good Day!" + name)
